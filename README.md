@@ -1,5 +1,8 @@
 https://zenn.dev/yazan/articles/0663e6e4680042# ngrok_test_2502
 
+# docker 起動
+``` docker compose up -d ```
+
 # ngrok 起動
 ``` ngrok http http://localhost:8080 ```
 
